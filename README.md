@@ -1,2 +1,2 @@
 # QRT-Notebook
-The return of spooky-less action
+The return of spookless action
